@@ -39,5 +39,5 @@ public class Student {
      return;
 }
 
-
+ void B1update();
 }
