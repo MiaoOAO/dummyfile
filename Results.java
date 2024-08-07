@@ -39,5 +39,8 @@ public class Student {
      return;
 }
 
+//haha
+    void myTest();
+
  void B1update();
 }
